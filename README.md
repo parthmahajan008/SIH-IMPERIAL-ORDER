@@ -1,13 +1,20 @@
-# Team: ART in Artificial Intelligence
+# Team: Imperial Order
 
 ## Drive Link
-Click [here](https://drive.google.com/drive/folders/1dzXPKIzIWRAYM8BRHGG6kmstxofpM1ag?usp=sharing) to access
+Click [here] <video> to access
 
 ## Features Implemented
 - Google Sign-in for enhanced user experience
 - Saving invoices to cloud storage (firebase)
 - Exporting the invoice as a pdf and csv file
 - Ability to perform all types of CRUD operations on an invoice
+
+## Plugins Implemented
+- Dialog Plugin
+- Firebase 
+- Preferences
+- Orientation
+- Deep Linking : App Launcher
 
 ## Tech Stack
 - ionic/react
@@ -19,9 +26,7 @@ Click [here](https://drive.google.com/drive/folders/1dzXPKIzIWRAYM8BRHGG6kmstxof
 ## To run this project
 1. Clone the repo and open project's directory
    
-   `git clone https://github.com/HarshitKmr10/SIH-2024.git`
-   
-   `cd SIH-2024`
+   `https://github.com/parthmahajan008/SIH-IMPERIAL-ORDER.git`
    
 2. Install all the dependencies
    
