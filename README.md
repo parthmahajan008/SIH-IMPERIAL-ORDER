@@ -1,8 +1,10 @@
 # Team: Imperial Order
 
 ## Drive Link
-Video Link : Click <video> to access
-PPT Link  : https://docs.google.com/presentation/d/1a4ZfHmoBPeXlX0ufsCp06nOEbCF_EwNVv1Oikv2ZF30/edit#slide=id.p1 to access.
+Video Link : Click video to access
+
+## PPT Link 
+   https://docs.google.com/presentation/d/1a4ZfHmoBPeXlX0ufsCp06nOEbCF_EwNVv1Oikv2ZF30/edit#slide=id.p1 to access.
 
 ## Features Implemented
 - Google Sign-in for enhanced user experience
